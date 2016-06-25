@@ -1,0 +1,47 @@
+kickstart.
+
+overall planning
+(RPG GAME)
+
+-storyline. ***
+		cari buat. 
+		amik. 
+		kita buat sendri. (kiv to mia)
+		NEED STORY BOARD MEETING.
+
+-battle system.
+		turn based
+		fast paced
+		consider room for tactics. (using game mechanics)
+
+-game mechanics.
+		battlesystem	
+			magics
+			items
+		npc
+			interaction
+			side quest
+		environment
+			interaction
+
+		enemies
+
+		players
+
+		weapons
+
+
+-fun factor.
+		the best feature for this game
+			probably the story
+			or game mechanics
+
+
+-graphics and char designs/ weapon design.
+	concept design.
+
+-sounds fx & musics bgm
+
+-duration. expected gameplay duration. game time lol
+
+
